@@ -1,0 +1,8 @@
+
+.env
+venv/
+newvenv/
+__pycache__/
+*.pyc
+faiss_index/
+multi_pdf_faiss_index/
